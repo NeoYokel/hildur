@@ -1,12 +1,8 @@
 # Hildur Theme for Chrome
 
-![Hildur Theme for Chrome](https://i.snap.as/Cgbt52e.png)
-
 The Hildur Theme for Google Chrome is a light-colored, entirely simplistic color configuration extrapolated from a "brand" I created for my [experimental website](https://davidblue.wtf). Perhaps notably, it is the first piece of "software" I have ever personally "published," so you can now refer to me - that is, [David Blue](https://github.com/NeoYokel) - as a *software developer*.
 
 ## Colors
-
-![Hildur Color Palette](https://i.snap.as/42KwDTi.png)
 
 | Element           | Color (RGB)   |
 | :---------------- | ------------- |
